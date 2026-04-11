@@ -94,7 +94,7 @@ Each row repeats the **row number** itself as many times as the row index.
 ```     
 ---
 
-### Pattern 6 -Pattern 6: Reverse number pattern
+### Pattern 6 — Reverse number pattern
 
 ```
 1 2 3 4 5
@@ -106,23 +106,24 @@ Each row repeats the **row number** itself as many times as the row index.
 ---
 
 ### Pattern 7: Centered pyramid of stars
-
+>For n = 5
 ```
-    *
-   * *
-  * * *
- * * * *
-* * * * *
+    *     
+   ***    
+  *****   
+ *******  
+********* 
+
 ```
 ---
 
 ### Pattern 8: Inverted centered pyramid of stars
-
+>For n = 5
 ```
-* * * * *
- * * * *
-  * * * 
-   * *
+********* 
+ *******
+  *****
+   ***
     *
 ```
 ---
