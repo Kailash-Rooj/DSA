@@ -128,6 +128,37 @@ Each row repeats the **row number** itself as many times as the row index.
 ```
 ---
 
+### Pattern 9: Diamond pattern of stars
+>For n = 5 , rows = 2*n
+``` 
+    *     
+   ***    
+  *****   
+ *******  
+********* 
+*********
+ *******  
+  *****   
+   ***    
+    *                
+```
+---
+
+### Pattern 10: Left-aligned diamond pattern
+>For n = 5
+```
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+```
+---
+
 ## 💡 Tips
 
 > **Start simple:** Master Pattern 1 before moving to complex ones.  
