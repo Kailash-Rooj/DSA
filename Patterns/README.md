@@ -83,6 +83,49 @@ Each row repeats the **row number** itself as many times as the row index.
 
 ---
 
+### Pattern 5 — Inverted right-angled triangle of stars
+
+```
+* * * * *
+* * * *
+* * *
+* *
+*
+```     
+---
+
+### Pattern 6 -Pattern 6: Reverse number pattern
+
+```
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1   
+``` 
+---
+
+### Pattern 7: Centered pyramid of stars
+
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+```
+---
+
+### Pattern 8: Inverted centered pyramid of stars
+
+```
+* * * * *
+ * * * *
+  * * * 
+   * *
+    *
+```
+---
 
 ## 💡 Tips
 
