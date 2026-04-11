@@ -94,7 +94,7 @@ Each row repeats the **row number** itself as many times as the row index.
 
 <div align="center">
 
-**Part of the [DSA Repository](../../README.md)**  
+**Part of the [DSA Repository](https://github.com/Kailash-Rooj/DSA/tree/main)**  
 *Built with ❤️ to strengthen DSA fundamentals*
 
 </div>
