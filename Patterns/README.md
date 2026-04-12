@@ -159,6 +159,50 @@ Each row repeats the **row number** itself as many times as the row index.
 ```
 ---
 
+### Pattern 11: Alternating binary  triangle  
+
+>For n = 5
+```
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+```
+
+### - Pattern 12: Symmetric (palindrome) number pyramid  
+>For n = 5
+```
+        1
+      1 2 1
+    1 2 3 2 1
+  1 2 3 4 3 2 1
+1 2 3 4 5 4 3 2 1
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 💡 Tips
 
 > **Start simple:** Master Pattern 1 before moving to complex ones.  
