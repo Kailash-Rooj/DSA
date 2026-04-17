@@ -1,2 +1,2 @@
 # DSA
-This is a repository where I’m working on data structures and algorithms. It will include different concepts and implementations as I progress.
+In this I’m working on data structures and algorithms. It will include different concepts and implementations as I progress.
