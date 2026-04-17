@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class p03 {
     public static void main(String[] args){
-        int n , count = 0;
+        int n;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no: ");
         n = sc.nextInt();
